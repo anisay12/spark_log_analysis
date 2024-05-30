@@ -79,6 +79,3 @@ The project includes visualizations for the distribution of HTTP status codes. T
 
 This project demonstrates how to use Apache Spark for large-scale log data analysis, showcasing the capabilities of PySpark for data processing, cleaning, and aggregation, along with Pandas and Seaborn for visualization.
 
-## License
-
-This project is licensed under the MIT License.
